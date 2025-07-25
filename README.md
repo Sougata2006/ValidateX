@@ -35,6 +35,7 @@ ValidateX is a lightweight and user-friendly web application that checks the val
 
 ## 📂 Project Structure
 
+```bash
 ValidateX/
 ├── index.html              
 ├── about.html              
@@ -47,7 +48,7 @@ ValidateX/
     ├── home.jpg        
     ├── about.jpg        
     └── loading.svg         
-
+```
 ---
 
 ## 🖼️ Screenshots
