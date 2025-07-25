@@ -43,20 +43,20 @@ ValidateX/
 ├── LICENSE                
 ├── README.md             
 ├── images/                
-│   ├── logo.svg         
-│   ├── home.jpg        
-│   ├── about.jpg        
-│   └── loading.svg         
+    ├── logo.svg         
+    ├── home.jpg        
+    ├── about.jpg        
+    └── loading.svg         
 
 ---
 
 ## 🖼️ Screenshots
 
 ### Home
-[images/home.jpg]
+![Home Page](images/home.jpg)
 
 ### About
-[images/about.jpg]
+![About Page](images/about.jpg)
 
 ---
 
