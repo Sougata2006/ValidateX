@@ -52,10 +52,10 @@ ValidateX/
 
 ## 🖼️ Screenshots
 
-### Home
+- ### Home
 ![Home Page](images/home.jpg)
 
-### About
+- ### About
 ![About Page](images/about.jpg)
 
 ---
