@@ -88,4 +88,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-> © 2025 **ValidateX.com** (placeholder domain) | Created by **Sougata Paul**
+> © 2025 **ValidateX** | Created by **Sougata Paul**
