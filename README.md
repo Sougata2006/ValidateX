@@ -70,7 +70,6 @@ You're welcome to contribute!
 - Make your changes
 - Raise an issue or a pull request
 
-**GitHub:** [Sougata2006](https://github.com/Sougata2006)
 
 ---
 
