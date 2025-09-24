@@ -73,14 +73,6 @@ You're welcome to contribute!
 
 ---
 
-## 📬 Contact
-
-Created with ❤️ by **Sougata Paul**  
-- [GitHub](https://github.com/Sougata2006)  
-- [LinkedIn](https://www.linkedin.com/in/sougata-paul/)
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
