@@ -29,7 +29,7 @@ ValidateX is a lightweight and user-friendly web application that checks the val
 - **HTML5** – For semantic structure  
 - **CSS3** – For beautiful and responsive design  
 - **JavaScript (ES6)** – For interactivity and API handling  
-- **[EmailValidation.io API](https://emailvalidation.io)** – To verify emails 
+- **[EmailValidation.io](https://emailvalidation.io)** – To verify emails 
 
 ---
 
