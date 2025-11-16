@@ -1,4 +1,4 @@
-# 📧 ValidateX - Email Validator Web App
+# ValidateX - Email Validator Web App
 
 ValidateX is a lightweight and user-friendly web application that checks the validity of email addresses in real time. It helps you identify whether an email address actually exists or is likely fake, using the [EmailValidation.io](https://emailvalidation.io) API.
 
