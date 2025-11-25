@@ -4,12 +4,6 @@ ValidateX is a lightweight and user-friendly web application that checks the val
 
 ---
 
-## 🌐 Live Demo
-
-[🔗 Click here to try ValidateX](https://validatex-izu1imclk-sougata-pauls-projects.vercel.app/index.html) 
-
----
-
 ## 🚀 Features
 
 - ✅ Real-time email validation
